@@ -1,0 +1,14 @@
+artifact_uri: file:///home/l-tiezerin/mlflow-project/notebook/mlruns/277880864352129655/bebee4583d83480096f173f171b3f475/artifacts
+end_time: 1764804248067
+entry_point_name: ''
+experiment_id: '277880864352129655'
+lifecycle_stage: active
+run_id: bebee4583d83480096f173f171b3f475
+run_name: receptive-shad-770
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764804242558
+status: 3
+tags: []
+user_id: l-tiezerin

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/l-tiezerin/mlflow-project/notebook/mlruns/277880864352129655/2b90c483193b47ff88cf706023e59d55/artifacts
+end_time: 1764803763652
+entry_point_name: ''
+experiment_id: '277880864352129655'
+lifecycle_stage: active
+run_id: 2b90c483193b47ff88cf706023e59d55
+run_name: likeable-snipe-865
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764803757535
+status: 3
+tags: []
+user_id: l-tiezerin

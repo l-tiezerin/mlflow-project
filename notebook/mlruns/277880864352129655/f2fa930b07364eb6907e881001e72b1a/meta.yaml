@@ -1,0 +1,14 @@
+artifact_uri: file:///home/l-tiezerin/mlflow-project/notebook/mlruns/277880864352129655/f2fa930b07364eb6907e881001e72b1a/artifacts
+end_time: 1764803558987
+entry_point_name: ''
+experiment_id: '277880864352129655'
+lifecycle_stage: active
+run_id: f2fa930b07364eb6907e881001e72b1a
+run_name: resilient-crab-357
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764803545796
+status: 3
+tags: []
+user_id: l-tiezerin

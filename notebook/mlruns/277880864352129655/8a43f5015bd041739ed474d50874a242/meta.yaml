@@ -1,0 +1,14 @@
+artifact_uri: file:///home/l-tiezerin/mlflow-project/notebook/mlruns/277880864352129655/8a43f5015bd041739ed474d50874a242/artifacts
+end_time: 1764803159689
+entry_point_name: ''
+experiment_id: '277880864352129655'
+lifecycle_stage: active
+run_id: 8a43f5015bd041739ed474d50874a242
+run_name: invincible-moth-817
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764803150012
+status: 3
+tags: []
+user_id: l-tiezerin
