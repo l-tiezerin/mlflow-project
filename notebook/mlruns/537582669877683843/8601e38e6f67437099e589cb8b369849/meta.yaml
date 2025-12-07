@@ -1,0 +1,14 @@
+artifact_uri: file:///home/l-tiezerin/mlflow-project/notebook/mlruns/537582669877683843/8601e38e6f67437099e589cb8b369849/artifacts
+end_time: 1765113983018
+entry_point_name: ''
+experiment_id: '537582669877683843'
+lifecycle_stage: active
+run_id: 8601e38e6f67437099e589cb8b369849
+run_name: able-skunk-1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765113976757
+status: 3
+tags: []
+user_id: l-tiezerin
