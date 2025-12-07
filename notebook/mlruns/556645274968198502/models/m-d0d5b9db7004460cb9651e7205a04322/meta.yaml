@@ -1,0 +1,10 @@
+artifact_location: file:///home/l-tiezerin/mlflow-project/notebook/mlruns/556645274968198502/models/m-d0d5b9db7004460cb9651e7205a04322/artifacts
+creation_timestamp: 1765067423806
+experiment_id: '556645274968198502'
+last_updated_timestamp: 1765067428879
+model_id: m-d0d5b9db7004460cb9651e7205a04322
+model_type: null
+name: modelo
+source_run_id: 62a8a8e485764b5f9014aaaefb74effb
+status: 2
+status_message: null

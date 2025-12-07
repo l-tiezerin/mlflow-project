@@ -1,0 +1,14 @@
+artifact_uri: file:///home/l-tiezerin/mlflow-project/notebook/mlruns/556645274968198502/3d576d2977e942d4b1edaa076e34d159/artifacts
+end_time: 1765067536585
+entry_point_name: ''
+experiment_id: '556645274968198502'
+lifecycle_stage: active
+run_id: 3d576d2977e942d4b1edaa076e34d159
+run_name: puzzled-donkey-437
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765067531775
+status: 3
+tags: []
+user_id: l-tiezerin

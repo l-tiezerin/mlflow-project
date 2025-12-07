@@ -1,0 +1,14 @@
+artifact_uri: file:///home/l-tiezerin/mlflow-project/notebook/mlruns/556645274968198502/62a8a8e485764b5f9014aaaefb74effb/artifacts
+end_time: 1765067428884
+entry_point_name: ''
+experiment_id: '556645274968198502'
+lifecycle_stage: active
+run_id: 62a8a8e485764b5f9014aaaefb74effb
+run_name: rogue-koi-905
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765067423755
+status: 3
+tags: []
+user_id: l-tiezerin

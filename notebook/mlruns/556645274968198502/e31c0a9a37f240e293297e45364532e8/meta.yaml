@@ -1,0 +1,14 @@
+artifact_uri: file:///home/l-tiezerin/mlflow-project/notebook/mlruns/556645274968198502/e31c0a9a37f240e293297e45364532e8/artifacts
+end_time: 1765066595702
+entry_point_name: ''
+experiment_id: '556645274968198502'
+lifecycle_stage: active
+run_id: e31c0a9a37f240e293297e45364532e8
+run_name: aged-moose-175
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765066589648
+status: 3
+tags: []
+user_id: l-tiezerin
